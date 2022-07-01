@@ -1,2 +1,2 @@
-# JoshAtticus Website
-Official JoshAtticus website
+# JoshAtticus Blog
+Official JoshAtticus blog
