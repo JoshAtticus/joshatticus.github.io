@@ -5,5 +5,5 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 github_username:  JoshAtticus # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
