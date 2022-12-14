@@ -1,2 +1,2 @@
-# JoshAtticus Blog
-Official JoshAtticus blog
+# JoshAtticus Website
+My official website, WIP.
